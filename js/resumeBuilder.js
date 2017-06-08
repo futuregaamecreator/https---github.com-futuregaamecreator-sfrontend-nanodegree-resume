@@ -79,6 +79,12 @@ bio.display = function () {
 var work = {
     "jobs": [{
             "employer": "Cricket",
+            "title": "Level 2 Business Manager",
+            "location": "Atlanta, GA",
+            "dates": 2016,
+            "description": "I train agents on how to use tools, assist with escalations from other departments, and audit contract vendors"
+        },{
+            "employer": "Cricket",
             "title": "ROS Desk Tier 2 Specialist",
             "location": "Atlanta, GA",
             "dates": 2014,
